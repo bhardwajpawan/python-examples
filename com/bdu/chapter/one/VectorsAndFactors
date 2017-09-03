@@ -1,0 +1,29 @@
+
+
+print("A vector is one dimentional array of opjects")
+print("no limitation of type and no of elements a vector can contains")
+print("Vector types: Lists,Tuples,Sets and Dictionaries")
+
+myList = ["Micheal Jackson","Thriller",\
+          1982,("pop","rock","R&B")]
+
+myList.append("test") # adds element in list
+print( myList)
+
+print("Tuples")
+myTuple = ("pop","rock","soul",1973)
+print(myTuple)
+
+print("SETS")
+print("sets are unordered and have no indexing")
+print("sets can not have duplicate data")
+mySet = (["hard-rock","progressive-rock"])
+mySet.append("soft-rock")
+print(mySet)
+
+
+print("Dictionaries")
+print("Dictionaries consists of keys and their corresponding values ")
+print("keys must be unique, can be string, numbers and touples")
+print("Dictionsries are unordered key value pair")
+myDic = {1980:"Back in Black",1982:"The thriller"}
