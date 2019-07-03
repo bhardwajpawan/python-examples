@@ -1,5 +1,5 @@
 # python-examples
-getting started with pythin coding 
+getting started with python coding 
 
 
 contains examples from big data university course
